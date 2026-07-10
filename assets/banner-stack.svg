@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 200" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1280" y2="200">
+      <stop offset="0%" stop-color="#134e4a"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="200" fill="url(#bg3)"/>
+  <circle cx="200" cy="60" r="80" fill="rgba(34,211,238,0.1)"/>
+  <text x="64" y="88" font-family="Inter,system-ui,sans-serif" font-size="32" font-weight="700" fill="#f8fafc">Stack &amp; Networks</text>
+  <text x="64" y="124" font-family="Inter,system-ui,sans-serif" font-size="15" fill="#94a3b8">Solidity · Foundry · Ethereum · Base · Arbitrum · Chainlink</text>
+  <rect x="64" y="142" width="140" height="3" rx="1.5" fill="#8b5cf6" opacity="0.6"/>
+</svg>
