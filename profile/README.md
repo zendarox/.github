@@ -1,12 +1,18 @@
 <!-- Zendarox GitHub Organization Profile README -->
 <!-- Deploy: push to github.com/zendarox/.github (profile/README.md + assets/) -->
+<!-- Images use relative paths — works once assets/ is in the same repo -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zendarox/.github/main/assets/banner-github.svg" alt="Zendarox — Production DeFi Engineering" width="100%" />
+  <img src="../assets/linkedin-banner.jpg" alt="Zendarox — Engineering the decentralized economy" width="100%" />
+</p>
+
+<p align="center">
+  <img src="../assets/linkedin-logo.png" alt="Zendarox logo" width="120" />
 </p>
 
 <h1 align="center">Zendarox</h1>
-<p align="center"><strong>Production DeFi engineering studio</strong></p>
+<p align="center"><strong>Engineering the decentralized economy</strong></p>
+<p align="center"><em>Production DeFi engineering studio · San Francisco</em></p>
 
 <p align="center">
   <a href="https://zendarox.com"><img src="https://img.shields.io/badge/website-zendarox.com-22d3ee?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
@@ -33,10 +39,6 @@ We scope work to real requirements: smart contract architecture, Solidity develo
 > We ship what your requirements doc asks for — not a template fork.
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zendarox/.github/main/assets/banner-capabilities.svg" alt="What we build" width="100%" />
-</p>
 
 ## Capabilities
 
@@ -70,10 +72,6 @@ We scope work to real requirements: smart contract architecture, Solidity develo
 </table>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zendarox/.github/main/assets/banner-stack.svg" alt="Stack and networks" width="100%" />
-</p>
 
 ## Stack
 
