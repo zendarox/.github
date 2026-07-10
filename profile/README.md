@@ -6,10 +6,6 @@
   <img src="../assets/linkedin-banner.jpg" alt="Zendarox — Engineering the decentralized economy" width="100%" />
 </p>
 
-<p align="center">
-  <img src="../assets/linkedin-logo.png" alt="Zendarox logo" width="120" />
-</p>
-
 <h1 align="center">Zendarox</h1>
 <p align="center"><strong>Engineering the decentralized economy</strong></p>
 <p align="center"><em>Production DeFi engineering studio · San Francisco</em></p>
